@@ -1,0 +1,5 @@
+# Ignore built files
+build/*
+
+# Ignore dist files
+dist/*

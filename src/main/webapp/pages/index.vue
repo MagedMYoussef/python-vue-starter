@@ -12,13 +12,15 @@
         <a
           href="https://github.com/MagedMYoussef/python-vue-starter/wiki"
           target="_blank"
-          class="button--green">
+          class="button--green"
+        >
           Documentation
         </a>
         <a
           href="https://github.com/MagedMYoussef/python-vue-starter/"
           target="_blank"
-          class="button--grey">
+          class="button--grey"
+        >
           GitHub
         </a>
       </div>
