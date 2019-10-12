@@ -1,2 +1,5 @@
-# python-vue-starter
-Python (Flask-RESTPlus) + Vue JS Starter Template
+# Python - Vue Starter
+
+> A modern starter kit using Python & Vue JS.
+
+
